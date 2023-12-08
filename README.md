@@ -1,5 +1,5 @@
 ### Hi there 👋
-how is it going
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mihir-x&theme=transparent)](https://git.io/streak-stats)
 
 <!--
 **mihir-x/mihir-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
