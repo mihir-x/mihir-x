@@ -1,4 +1,4 @@
-[![Local Image](images/banner.png)](https://www.linkedin.com/in/mihir-hasan-130767283)
+[![Local Image](images/banner2.png)](https://www.linkedin.com/in/mihir-hasan-130767283)
 
 
 ## My current overview
