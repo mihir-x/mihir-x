@@ -12,7 +12,7 @@
 ## My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mihir-x&theme=transparent)](https://git.io/streak-stats)  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihir-x&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir-x&theme=github_dark)
 
 
 ## Look Me Up
